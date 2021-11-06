@@ -18,3 +18,7 @@
 <li>Mostrar a quantidade de memória RAM que está sendo utilizada na máquina</li>
 <li>Mostrar a porcentagem de memória RAM que está sendo utilizada na máquina</li>
 </ul>
+
+### Projeto rodando no Visual Studio Code
+
+![UsageRamVSCODE](https://user-images.githubusercontent.com/84886079/140595076-789e4a65-84a3-4782-bdf4-27643cc56640.png)
